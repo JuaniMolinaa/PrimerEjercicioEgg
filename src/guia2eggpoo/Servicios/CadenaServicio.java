@@ -51,7 +51,7 @@ public class CadenaServicio {
                 repite++;
             }
         }
-        System.out.println("El carácter ingresado se repite " + repite + " veces");
+        System.out.println("El carácter ingresado se ha repetido " + repite + " veces");
     }//cierra vecesRepetido
 
     public void compararLongitud(String frase) {
